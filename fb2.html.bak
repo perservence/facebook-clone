@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+	<meta http-equiva="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=\\,initial-scale=1.0">
+	<link rel="stylesheet" href="style1.css">
+	<link rel ="icon" href="C:\Users\ADMIN\Desktop\2021_Facebook_icon.svg.webp">
+	<title>Facebook - log in or sign up</title>
+</head>
+<body>
+	<div class="box">
+		<div class="title-box">
+			<img id="facebook" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt="facebook-logo"> 
+			<div id="title"><h2>Facebook helps you connect and share with the people in your life.</h2></div>
+		</div>
+		<div class="form-box">
+			<form classs="a">
+				<input type="text" placeholder="Email address or phone number">
+				<input type="password" placeholder="Password">
+				<button type="submit"> Log in </button>
+				<a href="#">Forgotten password?</a>
+			
+			</form>
+			<hr>
+			<div class="create-btn">
+				
+				<a href="#"> Create New Acccount</a>
+			
+			</div>
+		</div><br></br><br></br>
+		</div class="sub-link">
+		
+		<h3><a href="">Create a Page</a> for a celebrity, brand or business.</h3></div>
+	
+	
+	<footer align="center">
+	<div>
+	English (UK)
+	मराठी
+	हिन्दी
+	اردو
+	ગુજરાતી
+	ಕನ್ನಡ
+	ਪੰਜਾਬੀ
+	தமிழ்
+	বাংলা
+	తెలుగు
+	മലയാളം
+	<hr style="width :100%;">
+	Sign Up   Log In Messenger  Facebook Lite Watch Places Games Marketplace FacebookPay<br>
+	Oculus Portal Instagram Bulletin Local Fundraisers Services Voting Information Centre Groups<br>
+	 About Createad Create Page Developers Careers Privacy Cookies AdChoices  Terms Help<br>
+	 Contact uploading and non-users
+	 <br><br>
+	 Meta © 2022
+	 </div>
+	 </footer>
+	
+</body>
+</html>
+	
